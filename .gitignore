@@ -25,6 +25,7 @@ hs_err_pid*
 # IDE
 /.idea
 /build
+/out
 
 # Gradle
 gradlew
